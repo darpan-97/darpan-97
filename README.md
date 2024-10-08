@@ -1,5 +1,4 @@
-## Welcome to my pro![giphy-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/0d54378a-7a9d-4ef0-832a-b77324dca010)
-
+## Welcome to my pro ![giphy-ezgif com-added-text](https://github.com/user-attachments/assets/195db2a5-172a-41ce-8746-ed1ed895dd5d)
 
 
 <!--![Game_of_life_animated_glider](https://github.com/user-attachments/assets/9e1d8c68-e9dc-45e3-9cba-a36a88015a65) -->
