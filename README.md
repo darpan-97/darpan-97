@@ -1,8 +1,7 @@
-## Welcome to my pro ![giphy-ezgif com-added-text](https://github.com/user-attachments/assets/195db2a5-172a-41ce-8746-ed1ed895dd5d)
-![giphy-ezgif com-webp-to-gif-converter(1)](https://github.com/user-attachments/assets/9000fbb3-d018-4591-8c9c-015c9205350e)
+## Welcome to my profile
 
-<!--![Game_of_life_animated_glider](https://github.com/user-attachments/assets/9e1d8c68-e9dc-45e3-9cba-a36a88015a65) -->
 
+![giphy-ezgif com-resize](https://github.com/user-attachments/assets/16cd4d43-4ce6-4e42-8243-7b7805eb1777)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/darpan-katarya/) 
