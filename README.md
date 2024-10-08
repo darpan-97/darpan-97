@@ -1,4 +1,5 @@
 Welcome to my profile!
+\n
 ![Game_of_life_animated_glider](https://github.com/user-attachments/assets/9e1d8c68-e9dc-45e3-9cba-a36a88015a65)
 
 
